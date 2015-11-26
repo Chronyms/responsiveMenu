@@ -1,3 +1,6 @@
+/*
+//Responsive Menu version 1.1, 26.11.2015, Chronym -> http://chronyms.ch / https://github.com/Chronyms/responsiveMenu
+*/
 $(document).ready(function(){
 	if(jQuery.browser.mobile)
 	{
@@ -9,6 +12,7 @@ $(document).ready(function(){
 		console.log("Desktop");
 		hoverDropDown();
 	}
+	$('nav').addClass('js');
 });
 
 function hoverDropDown()
