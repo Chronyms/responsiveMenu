@@ -7,6 +7,8 @@
 		<meta http-equiv="expires" content="43200">
 		
 		<title>Dropdown Menu Test</title>
+		
+		<link rel="stylesheet" type="text/css" href="css/mainCss.css" />
 	</head>
 	<body>
 		<nav>
@@ -36,4 +38,3 @@
 		<script type="text/javascript" src="js/mainJs.js"></script>
 	</body>
 </html>
-<link rel="stylesheet" type="text/css" href="css/mainCss.css" />
